@@ -16,6 +16,14 @@ class ViewController: UIViewController {
         print("안녕하세요")
         print("안녕히가세요")
         print("감사합니다ㅜㅜ")
+        print("감사합니다ㅜㅜ")
+        print("감사합니다ㅜㅜ")
+        print("감사합니다ㅜㅜ")
+        print("감사합니다ㅜㅜ")
+        print("감사합니다ㅜㅜ")
+        print("죄송합니다ㅜㅜ")
+        print("아 실수ㅜㅜ")
+        
     }
 
 
