@@ -23,6 +23,7 @@ class ViewController: UIViewController {
         print("감사합니다ㅜㅜ")
         print("죄송합니다ㅜㅜ")
         print("아 실수ㅜㅜ")
+        print("작업 끝")
         
     }
 
